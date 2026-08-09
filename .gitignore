@@ -1,0 +1,5 @@
+# Raw data files (large, downloaded separately — see README for source)
+*.tsv
+
+# Tableau packaged workbooks (large binary files, dashboard is published separately)
+*.twbx
